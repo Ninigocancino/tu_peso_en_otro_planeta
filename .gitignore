@@ -1,0 +1,27 @@
+# Archivos y directorios generados por Python y entornos virtuales
+__pycache__/
+*.pyc
+*.pyo
+__pycache__
+venv/
+env/
+*.env
+
+# Archivos generados por sistemas operativos
+.DS_Store
+Thumbs.db
+
+# Carpetas y archivos específicos para Python
+.venv/
+.idea/
+*.egg-info/
+dist/
+build/
+*.log
+
+# Carpeta y archivo de dependencias de Pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Carpeta de registro de aplicaciones web Django
+log/
