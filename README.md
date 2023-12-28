@@ -1,4 +1,4 @@
-# tu_peso_en_otro_planeta
+# Tu Peso En Otro Planeta
 
 ###  Un proyecto para poner en practica conceptos básicos de Python y mejorar el dominio de este lenguaje
 
